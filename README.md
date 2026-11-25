@@ -238,8 +238,8 @@ source.exe
 
 ## 👨‍💻 Authors
 
-**Urwa Rafique**   | **Awais Muhammad Khan**
-Roll No: `25K-3066`| Roll No: `25K-0845`
+|**Urwa Rafique**  | **Awais Muhammad Khan**|
+|Roll No: `25K-3066`| Roll No: `25K-0845`|
 EL-2003 Computer Organization & Assembly Language Lab
 
 ---
